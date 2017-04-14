@@ -2,6 +2,7 @@
   "name": "@pnald/ronalddev",
   "version": "1.0.0",
   "description": "test",
+  "repository":"https://github.com/ronaldblanco/ronaldDev.git",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
